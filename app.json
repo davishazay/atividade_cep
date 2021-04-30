@@ -1,0 +1,12 @@
+{
+  "name": "atividade_cep",
+  "displayName": "atividade_cep",
+  "expo": {
+    "name": "atividade_cep",
+    "slug": "atividade_cep",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
